@@ -10,8 +10,10 @@ yarn add --dev babel-plugin-react-native-electron
 
 **.babelrc**
 
+```js
 {
   "plugins": [
     ["react-native-electron", { commonjs: true }]
   ]
 }
+```
