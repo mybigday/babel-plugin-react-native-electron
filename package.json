@@ -1,0 +1,12 @@
+{
+  "name": "babel-plugin-react-native-electron",
+  "version": "0.1.0",
+  "description": "Babel plugin for React Native Electron",
+  "main": "index.js",
+  "repository": "https://github.com/mybigday/babel-plugin-react-native-electron",
+  "author": "Hans <hans.chen@bricks.tools>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-plugin-react-native-web": "^0.17.6"
+  }
+}
