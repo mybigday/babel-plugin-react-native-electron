@@ -7,6 +7,6 @@
   "author": "Hans <hans.chen@bricks.tools>",
   "license": "MIT",
   "dependencies": {
-    "babel-plugin-react-native-web": "^0.17.6"
+    "babel-plugin-react-native-web": "^0.19.0"
   }
 }

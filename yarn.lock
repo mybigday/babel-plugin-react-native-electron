@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-babel-plugin-react-native-web@^0.17.6:
-  version "0.17.6"
-  resolved "https://registry.yarnpkg.com/babel-plugin-react-native-web/-/babel-plugin-react-native-web-0.17.6.tgz#0d5f9de28ef0ffa94093c325cf8143bf01de6ed9"
-  integrity sha512-A7Y0mCNF7JNiqf4w90SNUc+fQ6sST/S0O8+1Lx5NP0EOqqqsjut0y3HQvbmCfRMXTzdo3gxaWmYoSCfjozBIhg==
+babel-plugin-react-native-web@^0.19.0:
+  version "0.19.0"
+  resolved "https://registry.yarnpkg.com/babel-plugin-react-native-web/-/babel-plugin-react-native-web-0.19.0.tgz#c65c6b2b3899e3eee98ece9af01843750c43199a"
+  integrity sha512-oGP9SPH/G1YRmIAFSwtejrQN044PgOSqd+bsT4V/9XzNcyxb5/TWW/BXuuzFX05vR1Pao89qqlgSxdSGDn7fVw==
