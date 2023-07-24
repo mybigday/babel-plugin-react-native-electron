@@ -3,6 +3,6 @@
 
 
 babel-plugin-react-native-web@^0.19.2:
-  version "0.19.4"
-  resolved "https://registry.yarnpkg.com/babel-plugin-react-native-web/-/babel-plugin-react-native-web-0.19.4.tgz#3e594f2e41d9e1c3dd3fa3bf28ab3d704b9cf0d3"
-  integrity sha512-Lw1Op21cUgon94L00m2uHHHiuO8LiCorNAgatT6mVsdgF6ft925MK7VpvF/CLHqtmSIQF0d3AxerZ0Ud8jG2Fg==
+  version "0.19.7"
+  resolved "https://registry.yarnpkg.com/babel-plugin-react-native-web/-/babel-plugin-react-native-web-0.19.7.tgz#bf5ae63e3e6f4730935d2fb58dba154d54e98762"
+  integrity sha512-Fh2Di+aE+6l788UzCY6p8zWa+dSZO9ZX/yjVw3haSWGly8u9MlmtMnHlWtuFj+NZKebLiz259rT+4h66/VrJSg==
