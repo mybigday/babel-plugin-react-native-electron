@@ -115,7 +115,7 @@ module.exports = function ({ types: t }) {
                   return t.variableDeclaration(path.node.kind, [
                     t.variableDeclarator(
                       t.identifier(identifier.value.name),
-                      isDefault(localName)
+                      isDefault(identifier.key.name)
                         ? t.memberExpression(
                             t.callExpression(t.identifier('require'), [t.stringLiteral(distLocation)]),
                             t.identifier('default')
